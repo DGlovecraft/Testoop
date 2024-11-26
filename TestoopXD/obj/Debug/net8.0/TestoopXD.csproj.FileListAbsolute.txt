@@ -1,0 +1,15 @@
+D:\Depo\Testoop\TestoopXD\bin\Debug\net8.0\TestoopXD.exe
+D:\Depo\Testoop\TestoopXD\bin\Debug\net8.0\TestoopXD.deps.json
+D:\Depo\Testoop\TestoopXD\bin\Debug\net8.0\TestoopXD.runtimeconfig.json
+D:\Depo\Testoop\TestoopXD\bin\Debug\net8.0\TestoopXD.dll
+D:\Depo\Testoop\TestoopXD\bin\Debug\net8.0\TestoopXD.pdb
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.AssemblyInfoInputs.cache
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.AssemblyInfo.cs
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.csproj.CoreCompileInputs.cache
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.sourcelink.json
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.dll
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\refint\TestoopXD.dll
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.pdb
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\TestoopXD.genruntimeconfig.cache
+D:\Depo\Testoop\TestoopXD\obj\Debug\net8.0\ref\TestoopXD.dll
