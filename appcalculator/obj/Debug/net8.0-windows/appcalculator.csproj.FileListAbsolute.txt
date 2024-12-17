@@ -1,0 +1,17 @@
+D:\Depo\Testoop\appcalculator\bin\Debug\net8.0-windows\appcalculator.exe
+D:\Depo\Testoop\appcalculator\bin\Debug\net8.0-windows\appcalculator.deps.json
+D:\Depo\Testoop\appcalculator\bin\Debug\net8.0-windows\appcalculator.runtimeconfig.json
+D:\Depo\Testoop\appcalculator\bin\Debug\net8.0-windows\appcalculator.dll
+D:\Depo\Testoop\appcalculator\bin\Debug\net8.0-windows\appcalculator.pdb
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.Form1.resources
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.csproj.GenerateResource.cache
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.AssemblyInfoInputs.cache
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.AssemblyInfo.cs
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.csproj.CoreCompileInputs.cache
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.sourcelink.json
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.dll
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\refint\appcalculator.dll
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.pdb
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\appcalculator.genruntimeconfig.cache
+D:\Depo\Testoop\appcalculator\obj\Debug\net8.0-windows\ref\appcalculator.dll

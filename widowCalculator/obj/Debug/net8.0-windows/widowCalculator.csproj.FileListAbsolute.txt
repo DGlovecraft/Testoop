@@ -1,0 +1,17 @@
+D:\Depo\Testoop\widowCalculator\bin\Debug\net8.0-windows\widowCalculator.exe
+D:\Depo\Testoop\widowCalculator\bin\Debug\net8.0-windows\widowCalculator.deps.json
+D:\Depo\Testoop\widowCalculator\bin\Debug\net8.0-windows\widowCalculator.runtimeconfig.json
+D:\Depo\Testoop\widowCalculator\bin\Debug\net8.0-windows\widowCalculator.dll
+D:\Depo\Testoop\widowCalculator\bin\Debug\net8.0-windows\widowCalculator.pdb
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.Form1.resources
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.csproj.GenerateResource.cache
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.AssemblyInfoInputs.cache
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.AssemblyInfo.cs
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.csproj.CoreCompileInputs.cache
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.sourcelink.json
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.dll
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\refint\widowCalculator.dll
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.pdb
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\widowCalculator.genruntimeconfig.cache
+D:\Depo\Testoop\widowCalculator\obj\Debug\net8.0-windows\ref\widowCalculator.dll
